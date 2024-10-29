@@ -55,7 +55,7 @@ git clone https://github.com/Alif145/Android-Z-ransomware && cd Android-Z-ransom
 
  python3 z-ransom.py
 
-  Then Start Yout Attack Enjoy This Tool.
+  Then Start Yout Attack Enjoy This Tool..
 ```
     
 ![Logo](https://j.top4top.io/p_3223a6kuv1.jpg)
